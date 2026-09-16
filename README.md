@@ -173,6 +173,5 @@ The principle can be summarized in four steps:
 | -------------- | ----------------------------------------------------------------------- |
 | 🧠 **Claude** and **Gpt** | explaining masks, CIDR and gateways with counter-examples               |
 | 🧠 **Claude**   | sanity-checking my reasoning on a topology before validating a level    |
-| ✍️ **Claude**   | drafting and structuring this README                                    |
 
 > no AI was used to solve the levels. Every exported configuration was computed by hand in the interface.
