@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/P1DN5Ionz2AAAAAd/corvax-muzzy-in-gondoland.gif"width="200">
+      <img src="https://media1.tenor.com/m/qvbOCwNRlNwAAAAd/yep-the-martians.gif"width="200">
     </td>
     <td align="center">
       <h2>GO Fix It</h2>
